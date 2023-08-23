@@ -1,11 +1,4 @@
-# odin-recipes
-Basic recipe website
+# Recipes Wesbsite
+A basic recipe website for showing recipes for those who can't cook
 
-This is my first website using only html. It is a recipe website that will use:
-
-Absolute links
-Relative links
-Images
-Different sized headings
-
-to accomplish my goal of creating a recipe website
+Practice using headers, paragraphs, ordered/unordered lists, strong and emphasized typing, linking, and other basic HTML
